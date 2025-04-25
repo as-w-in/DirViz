@@ -27,10 +27,6 @@ No installation needed. Just clone the repo and run the script:
 ```bash
 git clone https://github.com/as-w-in/DirViz.git
 cd disk-usage-visualizer
-chmod +x visualizer.py
-```
- **OR**
-```bash
 python3 dirViz.py /path/to/directory -d2
 ```
 # Good luck!! 
